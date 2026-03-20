@@ -1,0 +1,14 @@
+{
+    "Paul Atreides": {
+        "role": "Manager",
+        "status": "active"
+    },
+    "Jessica Nerus": {
+        "role": "HR",
+        "status": "inactive"
+    },
+    "Duncan Idaho": {
+        "role": "Analyst",
+        "status": "inactive"
+    }
+}

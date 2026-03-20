@@ -1,0 +1,95 @@
+[2026-03-17 20:14:17] Created user: Paul Atreides
+[2026-03-17 20:14:17] Assigned permissions to Paul Atreides
+[2026-03-17 20:14:17] Created user: Thufir Hawat
+[2026-03-17 20:14:17] Assigned permissions to Thufir Hawat
+[2026-03-18 11:39:02] Created user: Paul Atreides
+[2026-03-18 11:39:02] Assigned permissions to Paul Atreides
+[2026-03-18 11:39:02] Created user: Thufir Hawat
+[2026-03-18 11:39:02] Assigned permissions to Thufir Hawat
+[2026-03-18 11:39:02] Created user: Tanidia Nerus
+[2026-03-18 11:39:02] ERROR: Role HR not found for Tanidia Nerus
+[2026-03-18 11:47:58] Created user: Paul Atreides
+[2026-03-18 11:47:58] Assigned permissions to Paul Atreides
+[2026-03-18 11:47:58] Created user: Thufir Hawat
+[2026-03-18 11:47:58] Assigned permissions to Thufir Hawat
+[2026-03-18 11:47:58] Created user: Jessica Nerus
+[2026-03-18 11:47:58] ERROR: Role HR not found for Jessica Nerus
+[2026-03-18 11:51:18] Created user: Paul Atreides
+[2026-03-18 11:51:18] Assigned permissions to Paul Atreides
+[2026-03-18 11:51:18] Created user: Thufir Hawat
+[2026-03-18 11:51:18] Assigned permissions to Thufir Hawat
+[2026-03-18 11:51:18] Created user: Jessica Nerus
+[2026-03-18 11:51:18] ERROR: Role HR not found for Jessica Nerus
+[2026-03-19 12:52:02] Created user: Paul Atreides
+[2026-03-19 12:52:02] Assigned permissions to Paul Atreides
+[2026-03-19 12:52:02] Created user: Thufir Hawat
+[2026-03-19 12:52:02] Assigned permissions to Thufir Hawat
+[2026-03-19 12:52:02] Created user: Jessica Nerus
+[2026-03-19 12:52:02] ERROR: Role HR not found for Jessica Nerus
+[2026-03-19 13:51:03] Created user: nan
+[2026-03-19 13:51:03] Assigned permissions to nan
+[2026-03-19 13:51:03] Created user: Paul Atreides
+[2026-03-19 13:51:03] ERROR: Role nan not found for Paul Atreides
+[2026-03-19 13:51:03] Skipped Paul Atreides — already exists
+[2026-03-19 13:51:03] Skipped Paul Atreides — already exists
+[2026-03-19 13:51:03] Created user: Jessica Nerus
+[2026-03-19 13:51:03] ERROR: Role HR not found for Jessica Nerus
+[2026-03-19 13:51:03] Created user: Duncan Idaho
+[2026-03-19 13:51:03] Assigned permissions to Duncan Idaho
+[2026-03-19 13:51:03] ERROR: Unknown action unknown for Wellington Yueh
+[2026-03-19 15:01:15] ERROR: Missing data for request 1
+[2026-03-19 15:01:15] ERROR: Missing data for request 2
+[2026-03-19 15:01:15] ERROR: Missing data for request 3
+[2026-03-19 15:01:15] Created user: Paul Atreides
+[2026-03-19 15:01:15] Assigned permissions to Paul Atreides
+[2026-03-19 15:01:15] Skipped Paul Atreides — already exists
+[2026-03-19 15:01:15] Created user: Jessica Nerus
+[2026-03-19 15:01:15] ERROR: Role HR not found for Jessica Nerus
+[2026-03-19 15:01:15] Created user: Duncan Idaho
+[2026-03-19 15:01:15] Assigned permissions to Duncan Idaho
+[2026-03-19 15:01:15] ERROR: Unknown action unknown for Wellington Yueh
+[2026-03-19 15:04:05] ERROR: Missing data for request 1
+[2026-03-19 15:04:05] ERROR: Missing data for request 2
+[2026-03-19 15:04:05] ERROR: Missing data for request 3
+[2026-03-19 15:04:05] Created user: Paul Atreides
+[2026-03-19 15:04:05] Assigned permissions to Paul Atreides
+[2026-03-19 15:04:05] Skipped Paul Atreides — already exists
+[2026-03-19 15:04:05] Created user: Jessica Nerus
+[2026-03-19 15:04:05] ERROR: Role HR not found for Jessica Nerus
+[2026-03-19 15:04:05] Created user: Duncan Idaho
+[2026-03-19 15:04:05] Assigned permissions to Duncan Idaho
+[2026-03-19 15:04:05] ERROR: Unknown action unknown for Wellington Yueh
+[2026-03-19 15:17:39] ERROR: Missing data for request 1
+[2026-03-19 15:17:39] ERROR: Missing data for request 2
+[2026-03-19 15:17:39] ERROR: Missing data for request 3
+[2026-03-19 15:17:39] Created user: Paul Atreides
+[2026-03-19 15:17:39] Assigned permissions to Paul Atreides
+[2026-03-19 15:17:39] Skipped Paul Atreides — already exists
+[2026-03-19 15:17:39] Created user: Jessica Nerus
+[2026-03-19 15:17:39] ERROR: Role HR not found for Jessica Nerus
+[2026-03-19 15:17:39] Created user: Duncan Idaho
+[2026-03-19 15:17:39] Assigned permissions to Duncan Idaho
+[2026-03-19 15:17:39] ERROR: Unknown action unknown for Wellington Yueh
+[2026-03-19 15:27:46] ERROR: Cannot offboard Alia Atreides — user does not exist
+[2026-03-19 15:27:46] No access found for Jessica Nerus
+[2026-03-19 15:27:46] Deactivated user: Jessica Nerus
+[2026-03-19 15:27:46] Removed all access for Duncan Idaho
+[2026-03-19 15:27:46] Deactivated user: Duncan Idaho
+[2026-03-19 19:42:50] [WARNING] Skipped Paul Atreides — not approved
+[2026-03-19 19:42:54] [ERROR] Missing data for request 1
+[2026-03-19 19:42:54] [ERROR] Missing data for request 2
+[2026-03-19 19:42:54] [ERROR] Missing data for request 3
+[2026-03-19 19:42:54] [INFO] Created user: Paul Atreides
+[2026-03-19 19:42:54] [INFO] Assigned permissions to Paul Atreides
+[2026-03-19 19:42:54] [INFO] Skipped Paul Atreides — already exists
+[2026-03-19 19:42:54] [INFO] Created user: Jessica Nerus
+[2026-03-19 19:42:54] [ERROR] Role HR not found for Jessica Nerus
+[2026-03-19 19:42:54] [INFO] Created user: Duncan Idaho
+[2026-03-19 19:42:54] [INFO] Assigned permissions to Duncan Idaho
+[2026-03-19 19:42:54] [ERROR] Unknown action unknown for Wellington Yueh
+[2026-03-19 19:53:55] [WARNING] Skipped Paul Atreides — not approved
+[2026-03-19 19:54:53] [ERROR] Cannot offboard Alia Atreides — user does not exist
+[2026-03-19 19:54:53] [INFO] No access found for Jessica Nerus
+[2026-03-19 19:54:53] [INFO] Deactivated user: Jessica Nerus
+[2026-03-19 19:54:53] [INFO] Removed all access for Duncan Idaho
+[2026-03-19 19:54:53] [INFO] Deactivated user: Duncan Idaho

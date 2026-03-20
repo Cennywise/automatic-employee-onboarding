@@ -1,0 +1,12 @@
+{
+    "Paul Atreides": [
+        {
+            "system": "Email",
+            "access": "standard"
+        },
+        {
+            "system": "Finance App",
+            "access": "admin"
+        }
+    ]
+}
